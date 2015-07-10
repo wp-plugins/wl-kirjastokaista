@@ -49,9 +49,9 @@ To localize this plugin, translate language/kirjastokaista.po file and save it a
 
 **OTHER**
 
-Read more info on Kirjastokaista (Library Channel) service here.
+Read more info on Kirjastokaista (Library Channel) service [here](http://www.kirjastokaista.fi).
 
-This plugin is developed as open source by Buskerud fylkesbibliotek/Webløft and Jonni Tammisto in spring 2015.
+This plugin is developed as open source by [Buskerud fylkesbibliotek/Webløft](http://www.webloft.no) and Jonni Tammisto in spring 2015.
 
 == Installation ==
 
