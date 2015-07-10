@@ -1,0 +1,35 @@
+.kirjastokaista_layout_radios {
+	float:left;
+	margin-right:20px;
+	width: 80px;
+}
+
+.kirjastokaista_layout_radios label img {
+	content: url('http://placehold.it/100x55');	
+	margin-bottom: 10px;
+}
+
+.kirjastokaista_layout_radios i {
+	margin-bottom: 10px;
+	font-size: 40px;
+}
+
+#modal_save_shortcode_as {
+	display: none;
+}
+
+#modal_save_shortcode_as input[text], #modal_save_shortcode_as textarea {
+	width: 300px;
+}
+
+#chosen_categories {
+	font-style: italic;
+}
+
+#slideshow_options, #layout_options {
+	padding-top: 15px;
+}
+
+#slideshow_options {
+	display: none;
+}
