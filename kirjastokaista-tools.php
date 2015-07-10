@@ -126,7 +126,7 @@ function kirjastokaista_queue_my_admin_scripts() {
 		'kirjastokaista_url'  => $kirjastokaista_url )
 	);
 
-    wp_register_style ('kirjastokaista_font-awesome', plugin_dir_url( __FILE__ ).'/kirjastokaista/css/font-awesome/css/font-awesome.min.css' );
+    wp_register_style ('kirjastokaista_font-awesome', plugin_dir_url( __FILE__ ).'kirjastokaista/css/font-awesome/css/font-awesome.min.css' );
 	wp_enqueue_style('kirjastokaista_font-awesome');
     wp_enqueue_style (  'wp-jquery-ui-dialog');
 }
