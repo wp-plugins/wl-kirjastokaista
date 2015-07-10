@@ -41,7 +41,7 @@ If you don't see Kirjastokaista button on WYSIWYG content editor, insure that yo
 
 **LOCALIZATION**
 
-To localize this plugin, translate language/kirjastokaista.po file and save it as .mo. Save .mo file as /wp-content/languages/plugins/kirjastokaista-xx.mo where xx is your language code.
+To localize this plugin, translate language/kirjastokaista.po file and save it as .mo. Save .mo file as /wp-content/languages/plugins/kirjastokaista-xx.mo where xx is your language code. 
 
 
 ----------
